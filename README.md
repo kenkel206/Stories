@@ -1,0 +1,3 @@
+This is a collection of stories i wrote when I was younger like between 10 and 15 years old. I turned them into a website. 
+
+A project i challenged myself to make out of curiousity of my intelligence and creativity. As a warm welcome to growth and understanding. I did wake up one day and said i am gonna make this website. I do not have a strict deadline, it might not even feel completely finished a while from now. I just want to adapt and see where things go. Starting from the frontend of things. The goal is to make it feel like a website. Slowly moving to the backend. I will always try code what i am sure of and always try learn what i am not. Just a fun project for me while i am on uni break. :)
